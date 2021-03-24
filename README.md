@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Soumik
+- 👀 I’m interested in coding and related stuff..
+- 🌱 I’m currently learning python(newbie)
+- 💞️ I’m looking to collaborate on ...(lol nowhere)
+- 📫 How to reach me smik1172@gmail.com
