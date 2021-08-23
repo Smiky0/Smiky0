@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Soumik
-- 👀 I’m interested in coding and related stuff..
-- 🌱 I’m currently learning python(newbie)
-- 💞️ I’m looking to collaborate on ...(lol nowhere)
-- 📫 How to reach me smik1172@gmail.com
+- 👋 Hi, I’m Soumik
+- 👀 I’m interested in coding, sketching and travelling
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate with software developers
+- 📫 To reach me you can send a mail to: smik1172@gmail.com
