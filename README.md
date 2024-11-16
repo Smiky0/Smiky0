@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a fullstack webapp<br>🤝 I’m looking for help with Spring Boot<br>🌱 I’m currently learning Spring Boot/ React/ Cloud<br>⚡ Fun fact I use slack by myself :)
+🔭 I’m currently working on a fullstack webapp<br>🤝 I’m looking for help with Spring Boot<br>🌱 I’m currently learning Spring Boot/ React/ Cloud<br>⚡ Fun fact Firefox actually means Red Panda
 
 
 ## 🌐 Socials:
