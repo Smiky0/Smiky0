@@ -21,3 +21,6 @@ TypeScript · React · Next.js · PostgreSQL · Prisma · Tailwind CSS · Cloudf
 ## Find me
 
 [LinkedIn](https://linkedin.com/in/soumikx) · [X](https://x.com/smik_0) · [smikx.me](https://smikx.me)
+
+## Support Me:
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/smik101) 
