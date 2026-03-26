@@ -1,18 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on a fullstack webapp<br>🌱 I’m currently learning NextJS <br>⚡ Fun fact Firefox actually means Red Panda
+# Hi, I'm Soumik
 
+Full-stack developer focused on building and shipping real products.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumik_0345) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumikx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smik_0) 
+## What I'm building
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+**[Factube](https://github.com/Smiky0/factube)** — paste a YouTube URL, get key facts extracted from the transcript via Gemini AI.
+Built with Hono, ReactJS, Supabase, and PostgreSQL. Responses are cached by URL so repeat
+queries skip the API call entirely.
 
----
-[![](https://visitcount.itsvg.in/api?id=Smiky0&icon=1&color=0)](https://visitcount.itsvg.in)
+## Stack I actually use
 
-  ## 💰 Support Me:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/smik101) 
+TypeScript · React · Next.js · PostgreSQL · Prisma · Tailwind CSS · Cloudflare R2 · Docker
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Shipped
+
+- **[DevCart](https://devcart.smikx.me)** — a digital marketplace for downloadable assets.
+  Stripe payments, presigned URL uploads direct to Cloudflare R2, Sentry error monitoring.
+- **[smikx.me](https://smikx.me)** — personal portfolio and blog. Headless CMS via Hashnode GraphQL API.
+
+## Find me
+
+[LinkedIn](https://linkedin.com/in/soumikx) · [X](https://x.com/smik_0) · [smikx.me](https://smikx.me)
